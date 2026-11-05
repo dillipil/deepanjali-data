@@ -29,6 +29,26 @@ I enjoy building scalable data pipelines, transforming raw data into meaningful 
 | Databases | SQL Server, MySQL |
 | ETL Tools | Informatica |
 
+## 💻 Tech Stack & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Big Data & Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
+
+### Cloud & Orchestration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge)
+
+
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/dillipil
